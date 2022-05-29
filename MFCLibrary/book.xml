@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="GBK" ?>
+<root>
+    <book>
+        <id>1230001</id>
+        <name>数字电子技术基础</name>
+        <writer>余孟尝</writer>
+        <allSave>2</allSave>
+        <nowSave>1</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230002</id>
+        <name>电子技术基础</name>
+        <writer>余孟尝</writer>
+        <allSave>1</allSave>
+        <nowSave>0</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230003</id>
+        <name>算法与数据结构</name>
+        <writer>张乃</writer>
+        <allSave>1</allSave>
+        <nowSave>1</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230004</id>
+        <name>三体1</name>
+        <writer>刘慈欣</writer>
+        <allSave>3</allSave>
+        <nowSave>2</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230005</id>
+        <name>三体2</name>
+        <writer>刘慈欣</writer>
+        <allSave>3</allSave>
+        <nowSave>3</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230006</id>
+        <name>三体3</name>
+        <writer>刘慈欣</writer>
+        <allSave>3</allSave>
+        <nowSave>3</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230007</id>
+        <name>活着</name>
+        <writer>余华</writer>
+        <allSave>2</allSave>
+        <nowSave>2</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230008</id>
+        <name>暗时间</name>
+        <writer>刘未鹏</writer>
+        <allSave>5</allSave>
+        <nowSave>3</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230009</id>
+        <name>哈利波特</name>
+        <writer>JK.罗琳</writer>
+        <allSave>3</allSave>
+        <nowSave>3</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230010</id>
+        <name>从你的全世界路过</name>
+        <writer>张嘉佳</writer>
+        <allSave>5</allSave>
+        <nowSave>5</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230011</id>
+        <name>云边有个小卖部</name>
+        <writer>张嘉佳</writer>
+        <allSave>5</allSave>
+        <nowSave>5</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230012</id>
+        <name>阿弥陀佛么么哒</name>
+        <writer>大冰</writer>
+        <allSave>1</allSave>
+        <nowSave>1</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230013</id>
+        <name>你坏</name>
+        <writer>大冰</writer>
+        <allSave>1</allSave>
+        <nowSave>1</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230014</id>
+        <name>小孩</name>
+        <writer>大冰</writer>
+        <allSave>1</allSave>
+        <nowSave>1</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230015</id>
+        <name>我不</name>
+        <writer>大冰</writer>
+        <allSave>1</allSave>
+        <nowSave>1</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230016</id>
+        <name>啊2.0</name>
+        <writer>大冰</writer>
+        <allSave>3</allSave>
+        <nowSave>3</nowSave>
+        <BorrowNum />
+    </book>
+    <book>
+        <id>1230017</id>
+        <name>Python编程</name>
+        <writer>早安</writer>
+        <allSave>2</allSave>
+        <nowSave>2</nowSave>
+        <BorrowNum />
+    </book>
+</root>
